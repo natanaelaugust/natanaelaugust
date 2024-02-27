@@ -1,6 +1,6 @@
-## 👋 Olá, meu nome é Natanael
+# 👋 Olá, eu sou Natanael!
 
-👨‍🎓 Sou graduando em Análise e Desenvolvimento de Sistemas na XPE e mentorado na [PodCodar](https://podcodar.com/).
+👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na XPE e mentorado na [PodCodar](https://podcodar.com/).
 
 📘 Atualmente estou estudando HTML, CSS e JavaScript.
 
@@ -8,11 +8,13 @@
 
 ---
 
-## 🛠️ Linguagens e ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-[![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://www.w3.org/html/)[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3.org/Style/CSS/)[![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com/)[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
-
----
+[![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://www.w3.org/html/)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3.org/Style/CSS/)
+[![Bootstrap](https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png)](https://getbootstrap.com/)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com/)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 
 ## 🌐 Conecte-se comigo
 
@@ -20,6 +22,6 @@
 
 ---
 
-## ⭐ GitHub Stats
+## ⭐ Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natanaelaugust&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=natanaelaugust&show_icons=true)
